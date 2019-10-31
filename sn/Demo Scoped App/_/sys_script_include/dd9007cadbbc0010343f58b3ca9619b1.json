@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_308211_demo_scop.tst",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "tst",
+  "script": {
+    "____see": "sn\\Demo Scoped App\\Script Include\\active_true\\x_308211_demo_scop.tst.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 12:55:08",
+  "sys_id": "dd9007cadbbc0010343f58b3ca9619b1",
+  "sys_mod_count": 1,
+  "sys_name": "tst",
+  "sys_package": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_policy": "read",
+  "sys_scope": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_update_name": "sys_script_include_dd9007cadbbc0010343f58b3ca9619b1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 12:55:17"
+}

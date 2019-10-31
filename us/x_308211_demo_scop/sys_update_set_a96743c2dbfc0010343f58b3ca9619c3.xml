@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-10-31 13:40:23">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo Scoped App">98a4f6cedb7c0010343f58b3ca961967</application>
+<application_name>Demo Scoped App</application_name>
+<application_scope>x_308211_demo_scop</application_scope>
+<application_version>1.0.1</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo Scoped App - 1.0.1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>a96743c2dbfc0010343f58b3ca9619c3</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 13:40:22</sys_created_on>
+<sys_id>b40b0b86dbfc0010343f58b3ca961975</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 13:40:22</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Global Scoped App">2f790bc2dbfc0010343f58b3ca96198e</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_af794346dbfc0010343f58b3ca96191c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>Demo Global Scoped App</name><order/><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:33:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>af794346dbfc0010343f58b3ca96191c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo Global Scoped App</sys_name><sys_overrides/><sys_package display_value="">2f790bc2dbfc0010343f58b3ca96198e</sys_package><sys_policy/><sys_scope display_value="">2f790bc2dbfc0010343f58b3ca96198e</sys_scope><sys_update_name>sys_app_application_af794346dbfc0010343f58b3ca96191c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:33:44</sys_updated_on><title>Demo Global Scoped App</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>994970984</payload_hash>
+<remote_update_set display_value="Demo Scoped App - 1.0.1">b40b0b86dbfc0010343f58b3ca961975</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 13:40:22</sys_created_on>
+<sys_id>3c0b0b86dbfc0010343f58b3ca961975</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e2205a2ac0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 13:40:22</sys_updated_on>
+<table/>
+<target_name>Demo Global Scoped App</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>2379c346e3fc0010f37d9a1db73fd535</update_guid>
+<update_guid_history>2379c346e3fc0010f37d9a1db73fd535:994970984</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Scoped App">98a4f6cedb7c0010343f58b3ca961967</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_98a4f6cedb7c0010343f58b3ca961967</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="Incidents">5ca47ecedb7c0010343f58b3ca961969</menu><name>Demo Scoped App</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_308211_demo_scop</scope><scoped_administration>false</scoped_administration><short_description/><source>x_308211_demo_scop</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 12:02:35</sys_created_on><sys_id>98a4f6cedb7c0010343f58b3ca961967</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:25:41</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_308211_demo_scop.user" name="x_308211_demo_scop.user">98a4fecedb7c0010343f58b3ca96191f</user_role><vendor/><vendor_prefix/><version>1.0.1</version></sys_app></record_update>]]></payload>
+<payload_hash>-969262055</payload_hash>
+<remote_update_set display_value="Demo Scoped App - 1.0.1">b40b0b86dbfc0010343f58b3ca961975</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 13:40:22</sys_created_on>
+<sys_id>780b0b86dbfc0010343f58b3ca961975</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e21fe42740000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 13:40:22</sys_updated_on>
+<table/>
+<target_name>Demo Scoped App</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>21a7c3c25efc00102471bb01afc5ce1c</update_guid>
+<update_guid_history>21a7c3c25efc00102471bb01afc5ce1c:-969262055,60a4fece817c0010e398d7ed69a20f28:861994816</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Global Scoped App">2f790bc2dbfc0010343f58b3ca96198e</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_a379c346dbfc0010343f58b3ca961936</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>demo_global_scoped_app_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:33:45</sys_created_on><sys_id>a379c346dbfc0010343f58b3ca961936</sys_id><sys_mod_count>0</sys_mod_count><sys_name>demo_global_scoped_app_user</sys_name><sys_package display_value="">2f790bc2dbfc0010343f58b3ca96198e</sys_package><sys_policy/><sys_scope display_value="">2f790bc2dbfc0010343f58b3ca96198e</sys_scope><sys_update_name>sys_user_role_a379c346dbfc0010343f58b3ca961936</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:33:45</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>2270119</payload_hash>
+<remote_update_set display_value="Demo Scoped App - 1.0.1">b40b0b86dbfc0010343f58b3ca961975</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 13:40:22</sys_created_on>
+<sys_id>b00b0b86dbfc0010343f58b3ca961976</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e2205a2e60000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 13:40:22</sys_updated_on>
+<table/>
+<target_name>demo_global_scoped_app_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>eb79c34674fc0010d6720ebb54fc8139</update_guid>
+<update_guid_history>eb79c34674fc0010d6720ebb54fc8139:2270119</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo Scoped App">98a4f6cedb7c0010343f58b3ca961967</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_4fd4fecedb7c0010343f58b3ca961918</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="4fd4fecedb7c0010343f58b3ca961918" sys_domain="global" table="x_308211_demo_scop_incidents" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:25:19</sys_created_on><sys_id>4c9707c2dbfc0010343f58b3ca9619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_308211_demo_scop_incidents" sys_domain="global" view="Default view">4fd4fecedb7c0010343f58b3ca961918</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:25:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>asset_tag</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:25:19</sys_created_on><sys_id>c09707c2dbfc0010343f58b3ca9619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_308211_demo_scop_incidents" sys_domain="global" view="Default view">4fd4fecedb7c0010343f58b3ca961918</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:25:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:25:19</sys_created_on><sys_id>449707c2dbfc0010343f58b3ca9619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_308211_demo_scop_incidents" sys_domain="global" view="Default view">4fd4fecedb7c0010343f58b3ca961918</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:25:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>category</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:25:19</sys_created_on><sys_id>c49707c2dbfc0010343f58b3ca9619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_308211_demo_scop_incidents" sys_domain="global" view="Default view">4fd4fecedb7c0010343f58b3ca961918</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:25:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>fault_count</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:25:19</sys_created_on><sys_id>489707c2dbfc0010343f58b3ca9619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_308211_demo_scop_incidents" sys_domain="global" view="Default view">4fd4fecedb7c0010343f58b3ca961918</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:25:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>install_status</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 13:25:19</sys_created_on><sys_id>c89707c2dbfc0010343f58b3ca9619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_308211_demo_scop_incidents" sys_domain="global" view="Default view">4fd4fecedb7c0010343f58b3ca961918</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 13:25:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>true</header><name>x_308211_demo_scop_incidents</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 12:03:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4fd4fecedb7c0010343f58b3ca961918</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_scop_incidents</sys_name><sys_overrides/><sys_package display_value="Demo Scoped App" source="x_308211_demo_scop">98a4f6cedb7c0010343f58b3ca961967</sys_package><sys_policy/><sys_scope display_value="Demo Scoped App">98a4f6cedb7c0010343f58b3ca961967</sys_scope><sys_update_name>sys_ui_section_4fd4fecedb7c0010343f58b3ca961918</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 12:03:35</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-1258876764</payload_hash>
+<remote_update_set display_value="Demo Scoped App - 1.0.1">b40b0b86dbfc0010343f58b3ca961975</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 13:40:22</sys_created_on>
+<sys_id>fc0b0b86dbfc0010343f58b3ca961975</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e21fdebc70000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 13:40:22</sys_updated_on>
+<table>x_308211_demo_scop_incidents</table>
+<target_name>Incidents</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>d49707c28bfc001030b813a4b5744ac5</update_guid>
+<update_guid_history>d49707c28bfc001030b813a4b5744ac5:-1258876764,1796fe42ddbc0010df60b697dc2c8435:1383527120</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

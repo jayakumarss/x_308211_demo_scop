@@ -1,0 +1,24 @@
+{
+  "access": "public",
+  "active": true,
+  "api_name": "x_308211_demo_scop.inctest",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "inctest",
+  "script": {
+    "____see": "sn\\Demo Scoped App\\Script Include\\active_true\\x_308211_demo_scop.inctest.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 12:34:08",
+  "sys_id": "31bbf686dbbc0010343f58b3ca961997",
+  "sys_mod_count": 3,
+  "sys_name": "inctest",
+  "sys_package": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_policy": null,
+  "sys_scope": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_update_name": "sys_script_include_31bbf686dbbc0010343f58b3ca961997",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 12:52:55"
+}

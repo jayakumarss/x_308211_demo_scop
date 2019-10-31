@@ -1,0 +1,23 @@
+{
+  "element": "number",
+  "help": null,
+  "hint": null,
+  "label": "Number",
+  "language": "en",
+  "name": "x_308211_demo_scop_incidents",
+  "plural": "Numbers",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 12:02:41",
+  "sys_id": "35a47202dbbc0010343f58b3ca96192d",
+  "sys_mod_count": 0,
+  "sys_name": "Number",
+  "sys_package": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_policy": null,
+  "sys_scope": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_update_name": "sys_documentation_x_308211_demo_scop_incidents_number_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 12:02:41",
+  "url": null,
+  "url_target": null
+}

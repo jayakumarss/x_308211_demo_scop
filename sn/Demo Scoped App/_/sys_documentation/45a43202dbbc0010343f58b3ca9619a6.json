@@ -1,0 +1,23 @@
+{
+  "element": "sys_class_name",
+  "help": null,
+  "hint": null,
+  "label": "Class",
+  "language": "en",
+  "name": "x_308211_demo_scop_incidents",
+  "plural": "Class",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 12:02:39",
+  "sys_id": "45a43202dbbc0010343f58b3ca9619a6",
+  "sys_mod_count": 0,
+  "sys_name": "Class",
+  "sys_package": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_policy": null,
+  "sys_scope": "98a4f6cedb7c0010343f58b3ca961967",
+  "sys_update_name": "sys_documentation_x_308211_demo_scop_incidents_sys_class_name_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 12:02:39",
+  "url": null,
+  "url_target": null
+}
